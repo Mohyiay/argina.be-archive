@@ -112,7 +112,7 @@ function(){
 <li class="active">
 <a href="">français <i class="fa fa-check"></i></a>
 </li>
-<li><a href="https://www.argina.com/nl/referenties/overige/sint-niklaas-stelplaats-de-lijn/">nederlands</a></li>
+<li><a href="https://argina.digigrowth.be/nl/referenties/overige/sint-niklaas-stelplaats-de-lijn/">nederlands</a></li>
 </ul>
 </li>
 </ul>

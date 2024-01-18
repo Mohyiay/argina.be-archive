@@ -112,7 +112,7 @@ function(){
 <li class="active">
 <a href="">nederlands <i class="fa fa-check"></i></a>
 </li>
-<li><a href="http://www.argina.com/fr/references/ecoles/">français</a></li>
+<li><a href="http://argina.digigrowth.be/fr/references/ecoles/">français</a></li>
 </ul>
 </li>
 </ul>
